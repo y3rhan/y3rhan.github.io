@@ -1,8 +1,8 @@
 <?php
 // Database configuration
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "213.238.168.71";
+$username = "yerhan";
+$password = "Dem9r53!3";
 $dbname = "datalab";
 
 // Create a new record
